@@ -12,6 +12,6 @@ In order to create this project, I have used following technology and approaches
 - Responsiveness and cross-browser
 
 # Links
-➡️ [DEMO LINK](https://anastasiia-nikita.github.io/Air-landing-page/#)
+➡️ [DEMO LINK](https://anastasiia-nikita.github.io/The-Met-landing-page/)
 
 ➡️ [Figma design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=0%3A1)
